@@ -26,3 +26,15 @@
 *.exe
 *.out
 *.app
+
+# Auto-save files
+CMakeLists.txt.user
+CMakeLists.txt.user.*
+*.kdev4
+*.kate-swp
+*~
+*.autosave
+
+# CMake build directory
+build/
+
